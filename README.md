@@ -11,7 +11,7 @@
 	- Case slightly warped after fitting in switches
 	
 	
-	![](images/1.jpg)
+	![](https://github.com/Peggisan/reeeeboard/blob/master/images/1.jpg)
 	Case Render
 	
 	![](images/2.jpg)
