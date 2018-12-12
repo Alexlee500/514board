@@ -15,14 +15,14 @@
 <img src="https://github.com/Peggisan/reeeeboard/blob/master/images/1.jpg"/>
 	Case Render
 	
-	![parts](images/2.jpg)
+<img src="https://github.com/Peggisan/reeeeboard/blob/master/images/2.jpg"/>
 	Case Parts
 	
-	![fit](images/3.jpg)
+<img src="https://github.com/Peggisan/reeeeboard/blob/master/images/3.jpg"/>
 	Test Fit
 	
-	![wire](images/4.jpg)
+<img src="https://github.com/Peggisan/reeeeboard/blob/master/images/4.jpg"/>	
 	Wired
 	
-	![done](images/5.jpg)
+<img src="https://github.com/Peggisan/reeeeboard/blob/master/images/5.jpg"/>	
 	Done
