@@ -11,17 +11,17 @@
 	- Case slightly warped after fitting in switches
 	
 	
-	![](https://github.com/Peggisan/reeeeboard/blob/master/images/1.jpg)
+	![case](images/1.jpg)
 	Case Render
 	
-	![](images/2.jpg)
+	![parts](images/2.jpg)
 	Case Parts
 	
-	![](images/3.jpg)
+	![fit](images/3.jpg)
 	Test Fit
 	
-	![](images/4.jpg)
+	![wire](images/4.jpg)
 	Wired
 	
-	![](images/5.jpg)
+	![done](images/5.jpg)
 	Done
