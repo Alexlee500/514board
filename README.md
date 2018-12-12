@@ -11,18 +11,18 @@
 	- Case slightly warped after fitting in switches
 	
 	
-	Case Render
+Case Render
 <img src="https://github.com/Peggisan/reeeeboard/blob/master/images/1.jpg"/>
 
-	Case Parts
+Case Parts
 <img src="https://github.com/Peggisan/reeeeboard/blob/master/images/2.jpg"/>
 
-	Test Fit
+Test Fit
 <img src="https://github.com/Peggisan/reeeeboard/blob/master/images/3.jpg"/>
 
-	Wired
+Wired
 <img src="https://github.com/Peggisan/reeeeboard/blob/master/images/4.jpg"/>
 	
-	Done
+Done
 <img src="https://github.com/Peggisan/reeeeboard/blob/master/images/5.jpg"/>	
 	
