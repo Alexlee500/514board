@@ -18,7 +18,7 @@ Case Parts
 <img src="https://github.com/Peggisan/reeeeboard/blob/master/images/2.jpg"/>
 
 Test Fit
-<img src="https://github.com/Peggisan/reeeeboard/blob/master/images/3.jpg"/>
+<img src="https://github.com/Peggisan/reeeeboard/blob/master/images/3.rot.jpg"/>
 
 Wired
 <img src="https://github.com/Peggisan/reeeeboard/blob/master/images/4.jpg"/>
