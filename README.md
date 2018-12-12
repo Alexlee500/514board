@@ -12,7 +12,7 @@
 	
 	
 
-<img src="https://raw.githubusercontent.com/Peggisan/reeeeboard/master/images/1.jpg">
+<img src="https://raw.githubusercontent.com/Peggisan/reeeeboard/master/images/1.jpg" alt="renders">
 	Case Render
 	
 	![parts](images/2.jpg)
