@@ -11,7 +11,7 @@
 	- Case slightly warped after fitting in switches
 	
 	
-	![case](images/1.png)
+	![case](/images/1.png)
 	Case Render
 	
 	![parts](images/2.jpg)
